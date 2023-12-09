@@ -1,0 +1,43 @@
+[
+    {
+        "section": "MxSxC1",
+        "titles": [
+            {
+                "title": "The Bosses",
+                "names": [
+                    	"Miscreat",
+			"Lightning King"
+                ]
+            },
+          
+        ]
+    },
+    {
+        "section": "MxSxC1 Particle Pack",
+        "titles": [
+            {
+                "title": "Options",
+                "names": [
+                    "No Bubbles",
+                    "No Buff Effects",
+		    "Various Overrides To Other Particles"
+                ]
+            },
+            {
+                "title": "Game Directors",
+                "names": [
+                    "Agnes",
+                    "Altimus"
+                ]
+            },
+            {
+                "title": "Narrative Director",
+                "names": [
+                    "MxSxC1"
+                ]
+            }
+
+        ]
+    }
+ ]
+   
