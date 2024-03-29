@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 22,
-    "description": "MxSxC1 Particles2 077"
+    "description": "MxSxC1 Particles2 080",
+    "supported_formats": {"min_inclusive": 22, "max_inclusive": 40}
   }
 }
-
